@@ -3,11 +3,10 @@
 - Este proyecto es una aplicación web para la gestión de un supermercado. La aplicación permite a los usuarios registrarse, iniciar sesión, realizar compras, y gestionar productos y ventas. Está construida utilizando Node.js, Express, y PostgreSQL, y utiliza Handlebars como motor de plantillas para la interfaz de usuario.
 
 ## 📹 **Video de presentación**
-## 📹 **Video de presentación**
 
-* [Ver video 1 en YouTube](https://www.youtube.com/embed/wOTfcEfk33Q)
-* [Ver video 2 en YouTube](https://www.youtube.com/embed/xbfm7xwqmQM)
-* [Ver video 3 en YouTube](https://www.youtube.com/embed/e7omqwhBpHA)
+* [Inicio de sesión](https://www.youtube.com/embed/wOTfcEfk33Q)
+* [Pagar con PayPal](https://www.youtube.com/embed/xbfm7xwqmQM)
+* [Actualizar nombre de usuario](https://www.youtube.com/embed/e7omqwhBpHA)
 
 ## 🗃️ **Archivos y Directorios Principales**
 > **.env:** Variables de entorno.
